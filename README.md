@@ -6,7 +6,7 @@ An AI-powered dashboard for real-time monitoring of competitor websites, product
 
 | Name                 |
 | -------------------- |
-| **SHEETALKUMAR S C** |
+| **Sheetalkumar S C** |
 | **Rohit Bhavi**      |
 
 ## 🚀 Features
